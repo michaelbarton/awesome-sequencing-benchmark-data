@@ -25,5 +25,5 @@ DOI: [doi.org/10.1038/s41597-019-0287-z](https://doi.org/10.1038/s41597-019-0287
 
 - SRX5161985 (ONT no size selection)
 - SRX4901586 (ONT 10 kb size selection)
-- SRX4901584,SRX4901585 ((PacBio 10 kb size selection)
+- SRX4901584,SRX4901585 (PacBio 10 kb size selection)
 - SRX490158373 (Illumina)
